@@ -21,3 +21,4 @@ yarn-error.log*
 *.sw?
 /s-blog-web/.idea/
 /s-blog-web/node_modules/
+/s-blog-web - 副本/node_modules/
