@@ -1,5 +1,5 @@
 .DS_Store
-s-blog-web/node_modules
+/s-blog-web/node_modules
 /dist
 
 # local env files
