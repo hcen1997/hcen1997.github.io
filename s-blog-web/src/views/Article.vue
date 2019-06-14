@@ -1,51 +1,29 @@
 <template>
-    <el-container>
-        <el-backtop target=".page-component__scroll .el-scrollbar__wrap"></el-backtop>
-
-        <el-header>
-            <el-menu :default-active="activeIndex" class="el-menu-demo" mode="horizontal" @select="handleSelect" router="true">
-                <el-menu-item index="/">文章</el-menu-item>
-                <el-menu-item index="2">文件上下</el-menu-item>
-<!--                <el-submenu index="2">-->
-<!--                    <template slot="title">我的工作台</template>-->
-<!--                    <el-menu-item index="2-1">选项1</el-menu-item>-->
-<!--                    <el-submenu index="2-4">-->
-<!--                        <template slot="title">选项4</template>-->
-<!--                        <el-menu-item index="2-4-1">选项1</el-menu-item>-->
-<!--                    </el-submenu>-->
-<!--                </el-submenu>-->
-                <el-menu-item index="3" >快速留言版</el-menu-item>
-                <el-menu-item index="4">设置</el-menu-item>
-            </el-menu>
-        </el-header>
-        <el-main>
-            <el-table
-                    :data="tableData"
-                    style="width: 100%">
-                <el-table-column
-                        prop="date"
-                        label="日期"
-                        width="110">
-                </el-table-column>
-                <el-table-column
-                        prop="author"
-                        label="作者"
-                        width="90">
-                </el-table-column>
-                <el-table-column
-                        prop="text"
-                        label="文本">
-                </el-table-column>
-            </el-table>
-
-        </el-main>
-        <el-footer>Footer</el-footer>
-    </el-container>
+    <el-table
+            :data="tableData"
+            style="width: 100%">
+        <el-table-column
+                prop="date"
+                label="日期"
+                width="110">
+        </el-table-column>
+        <el-table-column
+                prop="author"
+                label="作者"
+                width="90">
+        </el-table-column>
+        <el-table-column
+                prop="text"
+                label="文本">
+        </el-table-column>
+    </el-table>
 </template>
 
 <script>
+    import Footer from "../components/Footer";
     export default {
-        name: 'main',
+        name: 'article',
+        components: {Footer},
         data() {
             return {
                 activeIndex: '1',
