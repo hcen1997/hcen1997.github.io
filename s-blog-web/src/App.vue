@@ -1,8 +1,8 @@
 <template>
     <div id="app">
         <el-container>
-            <el-backtop target=".page-component__scroll .el-scrollbar__wrap"></el-backtop>
-
+            <div class="top"></div>
+            <el-backtop target=".top"></el-backtop>
             <el-header>
                 <Header></Header>
             </el-header>

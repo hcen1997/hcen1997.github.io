@@ -1,3 +1,4 @@
+.gitignore
 .DS_Store
 /s-blog-web/node_modules
 /dist
@@ -22,3 +23,16 @@ yarn-error.log*
 /s-blog-web/node_modules/
 /simple-blog.iml
 /.idea/
+
+##############
+#local
+.history
+
+#s-server
+/s-blog-server/.mvn
+/s-blog-server/mvnw
+/s-blog-server/mvnw.cmd
+/s-blog-server/upload-dir
+
+# s-web
+/s-blog-web/dist

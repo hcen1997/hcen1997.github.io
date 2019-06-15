@@ -20,13 +20,10 @@
 </template>
 
 <script>
-    import Footer from "../components/Footer";
     export default {
         name: 'article',
-        components: {Footer},
         data() {
             return {
-                activeIndex: '1',
                 defaultText:'这一切都要从1930年9月的一天说起。这一天，在北京的小院里，一个名叫袁隆平的男婴出生了。',
                 tableData: [{
                     date: '1930-09-07',
@@ -78,11 +75,6 @@
                         '时六年九月十五日。'
                 }]
             };
-        },
-        methods: {
-            handleSelect(key, keyPath) {
-                console.log(key, keyPath);
-            }
         }
     }
 </script>

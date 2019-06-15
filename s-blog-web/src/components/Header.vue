@@ -1,6 +1,6 @@
 <template>
     <el-menu :default-active="activeIndex" class="el-menu-demo" mode="horizontal" @select="handleSelect"
-             router="true">
+             :router="true">
         <el-menu-item index="/article">文章</el-menu-item>
         <el-menu-item index="/file">文件上下</el-menu-item>
         <!--                <el-submenu index="2">-->
@@ -18,7 +18,17 @@
 
 <script>
     export default {
-        name: "Header"
+        name: "Header",
+        data(){
+            return{
+                activeIndex: '1'
+            }
+        },
+        methods: {
+            handleSelect(key, keyPath) {
+                console.log(key, keyPath);
+            }
+        }
     }
 </script>
 

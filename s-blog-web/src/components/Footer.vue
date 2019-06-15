@@ -1,5 +1,6 @@
 <template>
     <div>
+        <el-divider></el-divider>
 <!--       服务运行 生存时间 网站名-->
     2018-2019 <div id="web-name">网络机器 hcen.xyz</div>
 <!--        备案号-->
