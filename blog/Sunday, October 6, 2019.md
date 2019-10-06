@@ -6,12 +6,13 @@ I made a simple mnist web demo with python3.
 At first i want to deploy the code in my aliyun server by docker.  
 After 3 hours of exhausted trying, i quit to use  raw python command and system nohup.  
 
+<pre>
 
                     ##        .            
               ## ## ##       ==            
            ## ## ## ##      ===            
        /""""""""""""""""\___/ ===        
-'  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   '
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
        \______ o          __/            
          \    \        __/             
           \____\______/                
@@ -42,3 +43,5 @@ After 3 hours of exhausted trying, i quit to use  raw python command and system 
           |                  ||
   *       | *   **    * **   |**      **
    \))ejm97/.,(//,,..,,\||(,,.,\\,.((//
+
+</pre>
