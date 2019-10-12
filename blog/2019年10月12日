@@ -1,3 +1,5 @@
 ###  如何导入excel数据为json格式?  
 1. 定义json数据值  
 excelData: {
+2. 更改excel cell中的字符为对应json的路径
+  tips: 可以使用idea中的快捷键copy reference path (ctrl+shift+alt+c)   
