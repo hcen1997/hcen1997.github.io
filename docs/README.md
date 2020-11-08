@@ -5,6 +5,8 @@
 文件上传 （2019年6月15日）  
 文件下载 （2019年6月15日）  
 使用jekyll重置 
+todo: use archive as index
+todo: add season in archive
 
 ### 更新日志  
 2019年6月15日20点00分 删除.gitignore  
