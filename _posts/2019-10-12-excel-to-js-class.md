@@ -1,3 +1,6 @@
+---
+layout: post
+---
 ##  如何导入excel数据为json格式?
 #####  1. 定义json数据值
 > excelData: {<br>

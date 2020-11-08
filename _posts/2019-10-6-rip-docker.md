@@ -1,10 +1,13 @@
+---
+layout: post
+---
 ##### date: Sunday, October 6, 2019  
 ##### author: hcen1997  
 ---  
 ##### content  
-I made a simple mnist web demo with python3.  
-At first i want to deploy the code in my aliyun server by docker.  
-After 3 hours of exhausted trying, i quit to use  raw python command and system nohup.  
+I made a simple MNIST web demo with python3.  
+At first, I want to deploy the code in my Aliyun server by docker.  
+After 3 hours of exhausted trying, I quit to use  raw python command and system nohup.  
 
 <pre>
 
@@ -45,3 +48,6 @@ After 3 hours of exhausted trying, i quit to use  raw python command and system 
    \))ejm97/.,(//,,..,,\||(,,.,\\,.((//
 
 </pre>
+
+> hcen1997 on 2020-11-08:  
+> some software is build and soled for big enterprise

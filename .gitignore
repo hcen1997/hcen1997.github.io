@@ -1,1 +1,5 @@
 /.idea/
+/.jekyll-cache/
+/_pp/
+*.iml
+/_site/

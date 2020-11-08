@@ -1,3 +1,6 @@
+---
+layout: post
+---
 #### nginx rtmp 坑记录  
 1. nginx yum 安装不方便弄新模块  
 > 替换/usr/bin/nginx  

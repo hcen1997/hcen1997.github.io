@@ -1,3 +1,6 @@
+---
+layout: post
+---
 how to set up an auto start screen using linux-orangepi  
 1. make img tf card  
 2. resize use gparted in another linux system  

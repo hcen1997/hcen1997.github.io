@@ -1,3 +1,6 @@
+---
+layout: post
+---
 <html>
 #!/usr/bin/bash
 python -u -m http.server >> http.log
