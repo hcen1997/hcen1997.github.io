@@ -8,4 +8,4 @@
 
 ### 更新日志  
 2019年6月15日20点00分 删除.gitignore  
-
+2020-10-24 revert .gitignore
