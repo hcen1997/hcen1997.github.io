@@ -33,7 +33,7 @@ theme: minima
 plugins:
 #  - jekyll-remote-theme
 #  - jekyll-paginate
-  - jekyll-archives
+#  - jekyll-archives
 #  - jekyll-sitemap
 #  - jekyll-redirect-from
 
