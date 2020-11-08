@@ -10,4 +10,5 @@
 2019年6月15日20点00分 删除.gitignore  
 2020-10-24 revert .gitignore
 
-2020-11-09 using jekyll
+2020-11-09 using jekyll  
+2020-11-09 git rename simple->hcen1997 (rename is as humful as delete
