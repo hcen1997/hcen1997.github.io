@@ -59,6 +59,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - s-blog-server/
+  - s-blog-web/
 
 # Navigators
 nav_page_names: ['about.md', 'archive.html']
