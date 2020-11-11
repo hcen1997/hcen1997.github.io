@@ -6,7 +6,8 @@
 文件下载 （2019年6月15日）  
 使用jekyll重置 
 todo: use archive as index
-todo: add season in archive
+todo: add season category in archive nav  
+todo: add auto insert layout
 
 ## 使用方式
 1. 更新日志, 在_posts文件夹
