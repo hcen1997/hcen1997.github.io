@@ -1,0 +1,16 @@
+#name: view lock file by god
+#
+#on:
+#  push:
+#    branches: [ main ]
+#
+#jobs:
+#  build:
+#    runs-on: ubuntu-latest
+#    steps:
+#    - uses: actions/checkout@v2
+#    - name: Build the site in the jekyll/builder container
+#      run: |
+#        docker run \
+#        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+#        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && chmod 777 /srv/jekyll/Gemfile.lock && bundle update jekyll && bundle install && echo 'hi' && cat /srv/jekyll/Gemfile.lock && echo 'hi'  && jekyll build --future"
