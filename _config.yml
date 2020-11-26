@@ -34,11 +34,7 @@ future: true
 theme: minima
 plugins:
   - jekyll-seo-tag
-#  - jekyll-remote-theme
-#  - jekyll-paginate
   - jekyll-archives
-#  - jekyll-sitemap
-#  - jekyll-redirect-from
 
 include:
   - _pages
@@ -62,6 +58,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - vendor
 
 # Navigators
 nav_page_names: ['about.md', 'archive.html']
@@ -73,7 +70,7 @@ defaults:
     values:
       permalink: /:basename:output_ext
 
-# comments
+# comments combine with _layout/*
 comments_engine: gitalk
 gitalk:
   client_id: '1'
