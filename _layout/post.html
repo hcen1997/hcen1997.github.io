@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
     <header class="post-header">
@@ -32,7 +34,9 @@ layout: default
 
     {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
+    {% elsif site.comments_engine == 'gitalk' %}
+    {% include gitalk_comments.html %}
+    {% else %}
     {%- endif -%}
-
     <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
