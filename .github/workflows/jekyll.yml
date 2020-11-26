@@ -19,7 +19,7 @@ jobs:
 # 复制仓库下的两个文件夹到docker容器内 然后在容器内运行build
 #        Publishing to github.workspace on branch gh-pages
     - uses: helaili/jekyll-action@master
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-        with:
-          target_branch: 'github-page'
+      env:
+        JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+      with:
+        target_branch: 'github-page'
