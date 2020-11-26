@@ -61,7 +61,7 @@ exclude:
   - vendor
 
 # Navigators
-nav_page_names: ['about.md', 'archive.html','qr-donate.html]
+nav_page_names: ['about.md', 'archive.html','qr-donate.html']
 
 # Pages path
 defaults:
