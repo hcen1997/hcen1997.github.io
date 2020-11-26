@@ -73,9 +73,9 @@ defaults:
 # comments combine with _layout/*
 comments_engine: gitalk
 gitalk:
-  client_id: '1'
-  client_secret: '12'
+  client_id: 'b49ffa3afcc66dc518f2'
+  client_secret: '82763fe2d8dc488ea408aafa8bb56e6f49af7b78'
   repo: 'hcen1997.github.io'
   owner: 'hcen1997'
   admin:
-    - '13'
+    - 'hcen1997'
