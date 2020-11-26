@@ -1,3 +1,6 @@
+---
+layout: post
+---
 对于代码  
 {% highlight java %}
 public void transfer(String[] args){
