@@ -74,8 +74,8 @@ defaults:
 comments_engine: gitalk
 gitalk:
   client_id: '1'
-  client_secret: '1'
-  repo: '1.github.com'
-  owner: '1'
+  client_secret: '12'
+  repo: 'hcen1997.github.io'
+  owner: 'hcen1997'
   admin:
-    - '1'
+    - '13'
