@@ -16,11 +16,11 @@ jobs:
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && bundle install && cat /srv/jekyll/Gemfile.lock && jekyll build --future"
 
     - uses: actions/cache@v1
-    with:
-      path: vendor/bundle
-      key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-      restore-keys: |
-        ${{ runner.os }}-gems-
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
 # 复制仓库下的两个文件夹到docker容器内 然后在容器内运行build ?
 #        Publishing to github.workspace on branch gh-pages
     - uses: helaili/jekyll-action@master
