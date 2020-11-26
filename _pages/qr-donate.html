@@ -1,0 +1,101 @@
+---
+layout: page
+title: Donate
+---
+<style>
+    body {
+        /*height: 100vh;*/
+        /*width: 100vw;*/
+        margin: 0 auto;
+        text-align: center;
+        background-color: #111111;
+    }
+
+    .logo {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        height: 50px;
+    }
+
+    .head {
+        background-color: #fdfdfd;
+    }
+
+    .body {
+        background-color: #019fe8;
+    }
+
+    .box {
+        margin-left: 30vw;
+        width: 300px;
+        /*border: 1px solid #fdfdfd;*/
+    }
+
+    .string {
+        color: #fdfdfd;
+        line-height: 40px;
+    }
+
+    .bold {
+        line-height: 60px;
+        font-size: 200%;
+        font-weight: bold;
+    }
+
+    .qr {
+        height: 230px;
+        width: 250px;
+        margin: auto;
+        /*border: 1px solid #111111;*/
+    }
+
+    .qr img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .qr-box {
+        margin: auto;
+        background-color: #fdfdfd;
+        width: 270px;
+    }
+
+    .black {
+        color: #111111;
+    }
+</style>
+<div class="box">
+
+    <div class="head">
+        <img class="logo" src="assets/Alipay_logo.svg"/>
+    </div>
+    <div class="body">
+        <span class="string bold">支付就用支付宝</span>
+        <div class="qr-box">
+            <div class="qr" id="qr"></div>
+            <span class="string black">花菜(*泽涛)</span>
+        </div>
+        <span class="string ">打开支付宝[扫一扫]</span>
+        <br>
+        <span class="string">免费寄送收钱码: 拨打95188-6</span>
+    </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcode-generator/1.4.4/qrcode.min.js"></script>
+<script>
+    var create_qrcode = function (text, typeNumber,
+                                  errorCorrectionLevel, mode, mb) {
+
+        qrcode.stringToBytes = qrcode.stringToBytesFuncs[mb];
+
+        var qr = qrcode(typeNumber || 4, errorCorrectionLevel || 'M');
+        qr.addData(text, mode);
+        qr.make();
+
+//  return qr.createTableTag();
+//  return qr.createSvgTag();
+        return qr.createImgTag();
+    };
+    document.getElementById('qr').innerHTML =
+        create_qrcode("https://qr.alipay.com/fkx09035c9besu1uaq5ud75",
+            "0", "L", "Byte", "default");
+</script>
