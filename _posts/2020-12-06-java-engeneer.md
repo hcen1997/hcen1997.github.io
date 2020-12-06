@@ -7,9 +7,9 @@ layout: post
 2. spring
 3. spring mvc
 4. spring boot
-5. spring cloud a... e... f...
 6. mybatis
 7. mysql
+5. spring cloud a... e... f...
 8. reddit
 9. plsql
 10. kafeka
