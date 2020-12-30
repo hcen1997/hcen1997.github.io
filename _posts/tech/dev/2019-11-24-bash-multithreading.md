@@ -1,11 +1,11 @@
 ---
 layout: post
 ---
-<html>
+```shell script
 #!/usr/bin/bash
 python -u -m http.server >> http.log
 java -jar web-car.jar >> car.log
-</html>
+```
 
 上面的代码不会顺序执行
 
