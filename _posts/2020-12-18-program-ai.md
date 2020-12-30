@@ -13,3 +13,6 @@ func Sqrt(x float64) float64 {
   return z
 }
 ```
+
+## hash速度
+ai制造必须克服的是
