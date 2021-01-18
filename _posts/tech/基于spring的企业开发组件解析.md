@@ -11,4 +11,4 @@ mysql
 
 ### 额外库
 swagger, lombok, jackson, logback  
-spring-boot, open-feign, junit
+spring-boot, open-feign, junit, maven
