@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Mybatis解析 | Hcen-love-Zhouqiii</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="Mybatis解析" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="2020年使用springboot的mybatis项目解析 在一个springboot项目, 使用mybatis会引入4个包. 可以分成3类,Mybatis,Mybatis-spring, Mybatis-springboot." />
+<meta property="og:description" content="2020年使用springboot的mybatis项目解析 在一个springboot项目, 使用mybatis会引入4个包. 可以分成3类,Mybatis,Mybatis-spring, Mybatis-springboot." />
+<link rel="canonical" href="/2020/12/03/mybatis%E8%A7%A3%E6%9E%90.html" />
+<meta property="og:url" content="/2020/12/03/mybatis%E8%A7%A3%E6%9E%90.html" />
+<meta property="og:site_name" content="Hcen-love-Zhouqiii" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-12-03T00:00:00+00:00" />
+<script type="application/ld+json">
+{"description":"2020年使用springboot的mybatis项目解析 在一个springboot项目, 使用mybatis会引入4个包. 可以分成3类,Mybatis,Mybatis-spring, Mybatis-springboot.","url":"/2020/12/03/mybatis%E8%A7%A3%E6%9E%90.html","headline":"Mybatis解析","dateModified":"2020-12-03T00:00:00+00:00","datePublished":"2020-12-03T00:00:00+00:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"/2020/12/03/mybatis%E8%A7%A3%E6%9E%90.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Hcen-love-Zhouqiii" />
+</head>
+<body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Hcen-love-Zhouqiii</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/archive.html">Archive</a><a class="page-link" href="/qr-donate.html">Donate</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Mybatis解析</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2020-12-03T00:00:00+00:00" itemprop="datePublished">
+        Dec 3, 2020
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h1 id="2020年使用springboot的mybatis项目解析">2020年使用springboot的mybatis项目解析</h1>
+<p>在一个springboot项目, 使用mybatis会引入4个包.
+可以分成3类,Mybatis,Mybatis-spring, Mybatis-springboot.</p>
+
+<p>Mybatis是数据持久化框架, 改善jdbc连接方式.<br />
+Mybatis-spring 使用spring ioc方式管理Mybatis对象.<br />
+Mybatis-spring-boot使用约定和默认配置的方式减少配置项
+—</p>
+
+<h2 id="mybatis解析">Mybatis解析</h2>
+<h3 id="简介">简介</h3>
+<p>使用mybatis的基本方式是使用factory初始化session接口.
+在业务类中使用session接口中的方法调用对应mapper</p>
+
+<p>那么mybatis是怎样简化用户负担,同时操纵jdbc连接数据库呢?</p>
+
+<h3 id="架构">架构</h3>
+<ul>
+  <li>用户层:
+    <ol>
+      <li>存储sql语句的xml文件. 与xml文件对应的java接口和其中对应sql语句的方法</li>
+      <li>mybatis配置文件</li>
+    </ol>
+  </li>
+  <li>核心功能层: <br />
+使xml文件和java接口文件对应,做好被用户调用的准备
+    <ol>
+      <li>java函数参数处理(参数映射)</li>
+      <li>sql解析</li>
+      <li>sql执行</li>
+      <li>结果映射</li>
+    </ol>
+  </li>
+  <li>支持层:<br />
+其他企业级功能
+    <ol>
+      <li>配置加载</li>
+      <li>连接管理</li>
+      <li>事务</li>
+      <li>缓存</li>
+    </ol>
+  </li>
+</ul>
+
+<h3 id="类详细解析">类详细解析</h3>
+<p>SqlSession 为用户调用的主要接口.<br />
+注意, spring-boot隐藏配置bean的细节, 所以日常开发不容易见到这个接口.</p>
+<ul>
+  <li>SqlSession
+    <ul>
+      <li>类中的方法:
+        <ol>
+          <li>commit() crud() rollback()</li>
+          <li>getConnection()  getConfiguration()</li>
+          <li>升级 getMapper()</li>
+        </ol>
+      </li>
+      <li>使用方式<br />
+只使用session方式: session接口中的crud方法
+        <div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">try</span> <span class="o">(</span><span class="nc">SqlSession</span> <span class="n">session</span> <span class="o">=</span> <span class="n">sqlSessionFactory</span>
+        <span class="o">.</span><span class="na">openSession</span><span class="o">())</span> <span class="o">{</span>
+  <span class="nc">Blog</span> <span class="n">blog</span> <span class="o">=</span> <span class="o">(</span><span class="nc">Blog</span><span class="o">)</span> <span class="n">session</span><span class="o">.</span><span class="na">selectOne</span><span class="o">(</span>
+     <span class="s">"org.mybatis.example.BlogMapper.selectBlog"</span><span class="o">,</span> 
+     <span class="mi">101</span><span class="o">);</span>
+<span class="o">}</span>
+</code></pre></div>        </div>
+        <p>隐藏session概念的方式: 只写mapper</p>
+        <div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">try</span> <span class="o">(</span><span class="nc">SqlSession</span> <span class="n">session</span> <span class="o">=</span> <span class="n">sqlSessionFactory</span>
+        <span class="o">.</span><span class="na">openSession</span><span class="o">())</span> <span class="o">{</span>
+  <span class="nc">BlogMapper</span> <span class="n">mapper</span> <span class="o">=</span> <span class="n">session</span><span class="o">.</span><span class="na">getMapper</span><span class="o">(</span>
+        <span class="nc">BlogMapper</span><span class="o">.</span><span class="na">class</span><span class="o">);</span>
+  <span class="nc">Blog</span> <span class="n">blog</span> <span class="o">=</span> <span class="n">mapper</span><span class="o">.</span><span class="na">selectBlog</span><span class="o">(</span><span class="mi">101</span><span class="o">);</span>
+<span class="o">}</span>
+</code></pre></div>        </div>
+        <p>session接口中的crud方法调用exceutor来具体执行</p>
+      </li>
+    </ul>
+  </li>
+  <li>Executor
+判断是否命中缓存
+将流程交给StatmentHandler
+    <ul>
+      <li>StatementHandler
+        <ul>
+          <li>SimpleStatementHandler(无参sql)</li>
+          <li>PreparedStatementHandler(有参sql)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>ParameterHandler<br />
+对入参中的#{} ${} 内的变量遍历, 判断java类型, jdbc类型, 查看config中有没有注册</li>
+  <li>ResultSetHandler
+类似ParameterHandler, 对于jdbc结果集中的数据判断,检查注册,执行转换</li>
+</ul>
+
+<p>上文介绍了隐藏session的写法, 可在项目初始化时构建session,
+在业务文件中依赖注入mapper</p>
+<ul>
+  <li>MapperProxy
+SqlSession调用Config, Config调用MapperRegistry, MR调用MapperProxyFactory
+    <div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">SqlSession:</span>
+  <span class="n">session</span><span class="o">.</span><span class="na">getMapper</span><span class="o">();</span>
+<span class="nl">Config:</span>
+  <span class="n">config</span><span class="o">.</span><span class="na">getMapper</span><span class="o">();</span>
+<span class="nl">MapperRegistry:</span> 
+  <span class="n">mapperRegistry</span><span class="o">.</span><span class="na">getMapper</span><span class="o">(){</span>
+      <span class="n">knownMappers</span><span class="o">.</span><span class="na">get</span><span class="o">(</span><span class="nc">Class</span> <span class="n">t</span><span class="o">);</span>
+      <span class="n">factory</span><span class="o">.</span><span class="na">newInstance</span><span class="o">();</span>
+<span class="o">}</span>    
+<span class="nl">MapperProxyFactory:</span>
+  <span class="n">newInstance</span><span class="o">(){</span>
+      <span class="nc">Proxy</span><span class="o">.</span><span class="na">newInstance</span><span class="o">(</span><span class="n">mapperInterface</span><span class="o">.</span><span class="na">getClassLoader</span><span class="o">,</span>
+                <span class="k">new</span> <span class="nc">Class</span><span class="o">[]{</span><span class="n">mapperInterface</span><span class="o">})</span>
+<span class="o">}</span>
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+<h3 id="diff">diff</h3>
+<ul>
+  <li>mybatis映射java方法到sql语句,而不是想hibernate,映射java类到数据库表</li>
+  <li>hibernet用户创建java类, H框架自动管理表的创建和维护.Mybatis使用相反的方法.
+先存在数据库, 然后MBG自动创建java类. 这两种方法各有优点. Mybatis适合程序员无法
+ 完全掌控数据库,或者数据库中的数据需要多个程序共享. 例如, 某程序需要临时访问一个
+ 额外的数据库. 或者有dba管理和优化数据库.</li>
+</ul>
+
+<h3 id="mybatis-spring">mybatis spring</h3>
+<p>把mybatis整合入spring框架. 这可以减少程序员适配spring时的依赖管理工作.</p>
+
+<p>使mybatis使用spring的事务管理. 创建mapper和session以注入其他spring管理的bean</p>
+
+<h4 id="example">example</h4>
+<p>注册mybatis到spring后</p>
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;bean</span> <span class="na">id=</span><span class="s">"sqlSessionFactory"</span> <span class="na">class=</span><span class="s">"org.mybatis.spring.SqlSessionFactoryBean"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;property</span> <span class="na">name=</span><span class="s">"dataSource"</span> <span class="na">ref=</span><span class="s">"dataSource"</span> <span class="nt">/&gt;</span>
+<span class="nt">&lt;/bean&gt;</span>
+
+<span class="nt">&lt;bean</span> <span class="na">id=</span><span class="s">"blogMapper"</span> <span class="na">class=</span><span class="s">"org.mybatis.spring.mapper.MapperFactoryBean"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;property</span> <span class="na">name=</span><span class="s">"sqlSessionFactory"</span> <span class="na">ref=</span><span class="s">"sqlSessionFactory"</span> <span class="nt">/&gt;</span>
+    <span class="nt">&lt;property</span> <span class="na">name=</span><span class="s">"mapperInterface"</span> <span class="na">value=</span><span class="s">"org.mybatis.example.BlogMapper"</span> <span class="nt">/&gt;</span>
+<span class="nt">&lt;/bean&gt;</span>
+
+<span class="nt">&lt;bean</span> <span class="na">id=</span><span class="s">"blogService"</span> <span class="na">class=</span><span class="s">"org.mybatis.example.BlogServiceImpl"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;property</span> <span class="na">name=</span><span class="s">"blogMapper"</span> <span class="na">ref=</span><span class="s">"blogMapper"</span> <span class="nt">/&gt;</span>
+<span class="nt">&lt;/bean&gt;</span>
+</code></pre></div></div>
+
+<p>调用mybatis的mapper现在就像使用spring的bean一样,
+此时mapper可以被注入</p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">public</span> <span class="kd">class</span> <span class="nc">BlogService</span> <span class="o">{</span>
+
+    <span class="kd">private</span> <span class="nc">BlogMapper</span> <span class="n">blogMapper</span><span class="o">;</span>
+
+    <span class="kd">public</span> <span class="kt">void</span> <span class="nf">setBlogMapper</span><span class="o">(</span><span class="nc">BlogMapper</span> <span class="n">blogMapper</span><span class="o">)</span> <span class="o">{</span>
+        <span class="k">this</span><span class="o">.</span><span class="na">blogMapper</span> <span class="o">=</span> <span class="n">blogMapper</span><span class="o">;</span>
+    <span class="o">}</span>
+
+    <span class="kd">public</span> <span class="kt">void</span> <span class="nf">doSomethingWithABlog</span><span class="o">(</span><span class="kt">int</span> <span class="n">blogId</span><span class="o">)</span> <span class="o">{</span>
+        <span class="nc">Blog</span> <span class="n">blog</span> <span class="o">=</span> <span class="n">blogMapper</span><span class="o">.</span><span class="na">selectBlog</span><span class="o">(</span><span class="n">blogId</span><span class="o">);</span>
+        <span class="o">...</span>
+    <span class="o">}</span>
+<span class="o">}</span>
+</code></pre></div></div>
+
+<h3 id="mybatis-spring-boot">mybatis spring boot</h3>
+<p>This feature allows one to build business code free of configuration.</p>
+
+<h3 id="mybatis-generator">MyBatis Generator</h3>
+<p>MBG是官方代码生成器.可以根据已经存在的sql生成对应的crud语句,java Pojo 和mapper接口</p>
+
+<h3 id="应用">应用</h3>
+<h4 id="mybatis多数据源">mybatis多数据源</h4>
+<p>根据上述流程,分析得到切入点在Mapper映射.
+手动创建两套DataSource, SqlSessionFactory<br />
+注意到在mybatis-spring.jar中有SqlSessionFactoryBean,这是mybatis整合入spring的关键</p>
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nd">@Configuration</span>
+<span class="nd">@MapperScan</span><span class="o">(</span><span class="n">basePackages</span><span class="o">=...,</span> <span class="n">sqlSessionFactoryRef</span><span class="o">=...)</span>
+<span class="kd">public</span> <span class="kd">class</span> <span class="nc">DataSourceOne</span><span class="o">{</span>
+    <span class="nc">Package</span> <span class="o">=</span> <span class="s">"com.example.mapper"</span><span class="o">;</span>
+    <span class="nc">MapperLocation</span> <span class="o">=</span> <span class="s">"classpath*:one-mapper/*.xml"</span><span class="o">;</span>
+    
+    <span class="nd">@Bean</span>
+    <span class="nd">@ConfigurationProperties</span><span class="o">(</span><span class="n">prefix</span> <span class="o">=</span> <span class="s">"..."</span><span class="o">)</span>
+    <span class="kd">public</span> <span class="nc">DataSource</span> <span class="nf">oneDataSource</span><span class="o">(){</span><span class="k">return</span> <span class="nc">DataSourceBuilder</span>
+                                <span class="o">.</span><span class="na">create</span><span class="o">().</span><span class="na">build</span><span class="o">();}</span>
+    <span class="nd">@Bean</span>
+    <span class="kd">public</span> <span class="nc">SqlSessionFactory</span> <span class="nf">one</span><span class="o">(</span><span class="nd">@Qualifier</span><span class="o">(</span><span class="s">"oneDataSource"</span><span class="o">)</span> 
+                                    <span class="nc">DataSource</span> <span class="n">ds</span><span class="o">){</span>
+        <span class="nc">SqlSessionFactoryBean</span> <span class="n">sBean</span> <span class="o">=</span> <span class="k">new</span> <span class="o">...;</span>
+        <span class="n">sBean</span><span class="o">.</span><span class="na">setMapperLocations</span><span class="o">(...);</span>
+        <span class="k">return</span> <span class="n">sBean</span><span class="o">.</span><span class="na">getObject</span><span class="o">();</span>
+    <span class="o">}</span>   
+<span class="o">}</span>
+</code></pre></div></div>
+<p>使用时只需要使用spring注入对应mapper.</p>
+
+<h3 id="history">history</h3>
+<p>mybatis 在2010年 fork ibatis 3. ibatis 开始于 2002.
+java 1.5 发布于 2004, spring 3.0 发布于 2009</p>
+
+<h3 id="参考">参考</h3>
+
+<p>mybatis总结: https://www.cnblogs.com/cxuanBlog/p/12248536.html<br />
+美团异常实例: https://tech.meituan.com/2020/06/18/inf-bom-mybatis.html<br />
+mybatis文档: https://mybatis.org/mybatis-3/zh/getting-started.html<br />
+mybatis spring 文档: http://mybatis.org/spring/zh/getting-started.html<br />
+mybatis springboot 文档: http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/index.html<br />
+wiki: en.wikipedia.org</p>
+
+<h3 id="more">more</h3>
+<p>what is j2ee? what is entreprice need for technology?
+I think answer is in books.
+Expert One-on-One J2EE design and development.
+Expert One-on-One J2EE Development without EJB</p>
+
+  </div>
+  <!-- Start gitalk -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
+
+<script>
+    window.addEventListener('load', function () {
+        const gitalk = new Gitalk({
+            clientID: 'b49ffa3afcc66dc518f2',
+            clientSecret: '82763fe2d8dc488ea408aafa8bb56e6f49af7b78',
+            repo: 'hcen1997.github.io',
+            owner: 'hcen1997',
+            admin: 'hcen1997',
+            id: location.pathname,      // Ensure uniqueness and length less than 50
+            distractionFreeMode: true  // Facebook-like distraction free mode
+        })
+        gitalk.render('gitalk-container')
+    })
+</script>
+<!-- End gitalk -->
+<a class="u-url" href="/2020/12/03/mybatis%E8%A7%A3%E6%9E%90.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+      </div>
+      <div class="footer-col">
+        <p>Here is an AWESOME description. I am editing this in _config.yml. This should show in html-&gt;head-&gt;metadata (and i do not like google ) and i cannot find feed.xml file.</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"></ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

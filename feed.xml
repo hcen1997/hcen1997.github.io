@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-01-19T01:37:34+00:00</updated><id>/feed.xml</id><title type="html">Hcen-love-Zhouqiii</title><subtitle>Here is an AWESOME description. I am editing this in _config.yml. This should show in html-&gt;head-&gt;metadata (and i do not like google ) and i cannot find feed.xml file.</subtitle><entry><title type="html">一句话post</title><link href="/2070/01/01/%E4%B8%80%E5%8F%A5%E8%AF%9Dpost.html" rel="alternate" type="text/html" title="一句话post" /><published>2070-01-01T00:00:00+00:00</published><updated>2070-01-01T00:00:00+00:00</updated><id>/2070/01/01/%E4%B8%80%E5%8F%A5%E8%AF%9Dpost</id><content type="html" xml:base="/2070/01/01/%E4%B8%80%E5%8F%A5%E8%AF%9Dpost.html">&lt;h2 id=&quot;很多时候-想法只有一句话&quot;&gt;很多时候 想法只有一句话&lt;/h2&gt;
+&lt;p&gt;不想复习,也不想写文章做调研&lt;/p&gt;
+&lt;h4 id=&quot;记得定时清理-生成树组织成结构&quot;&gt;记得定时清理 生成树,组织成结构&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;编程用什么库其实无所谓,
+重要的是&lt;重构&gt;&lt;代码大全&gt;中的代码构造能力,&lt;/代码大全&gt;&lt;/重构&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;阶级: 体力 脑力 高收入 资本家 顶层 // 我现在在脑力初期,
+圆满后升级,接近资本可以做到高收入.
+剩下两个层次要看历史的进程&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;为什么要两个后空格呢? 因为一行80字,但是程序员写源码的时候
+不想处理滚轴的问题&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;在优秀的软件工程设计方式的启发下, 一个git仓库可以玩出花来&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.hillelwayne.com/post/performance-matters/&quot;&gt;文章&lt;/a&gt; &lt;a href=&quot;https://blog.csdn.net/liujian20150808/article/details/50848646&quot;&gt;1&lt;/a&gt;写得好,语言不重要&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;我知道的唯一可以在某件事上走向成功的方法: 做一件事,评估结果,重复&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;计算机是奴隶吗? 计算机不想让我使用吗? 我不想让计算机想我一样聪明吗?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;聪明人做出了一件复杂的事情,完成了工作,然后跑路了, 谁来维护呢?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;嘿 小伙子 失业了怎么办? 看来只能利用机器尽可能满足更多人的需求,
+慢慢计费与他人交易了.(为什么这件事情这么难想呢? 因为思考其他人
+的需求,并且满足他们是需要成本的, 人力思考是很贵重的.
+但是机器不一样,机器只有第一次的成本,和人一样,但是边际成本为0,
+人的边际成本太高了!!!)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;why many people cant stand pure things? because
+ they dont know, they move on experences not thoughts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;cat can speack by press the button&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Internet is just a technology like tv or radio. 
+just more powerful in 1995’s view. ( the team re-targeted 
+the platform for the World Wide Web. They felt that with the advent of graphical web browsers like Mosaic the Internet could evolve into the same highly interactive medium that they had envisioned for cable TV)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;十年后那帮孩子,人手3间房, 你让他们打工? (但是资本家和政治家有
+的是办法让他们干活, 修bug而已)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;如果理想是使用智慧让所有人的生活更美好, 那么, 和马克思的 ‘all 
+worker, unite’ 有什么不一样? 从这个视角看马克思, 的确有很多地方
+可以学习. 而且gcd自己变成了巨龙, 但是把当初的屠龙术留下来了.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;// 为什么写代码就是这么累
+        // 为什么写好代码就是这么难?
+        // 因为代码要考虑到所有情况, 不能报错, 出bug
+        // 但是数据来源得自己造, 用户行为也非常昂贵
+        // 因为代码不是实时想,实时写, 是先写,然后跑着&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    // 但是如果计算机有传感器就不一样了, 主动获取数据,
+    // 不怕缺
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;todo_aPost: 和旧人做新事，别和新人做旧事。
+人一辈子，是和自己那个年龄段一起过的一辈子。
+年长者先死，年轻者后死。物质基础都不一样，怎么一起玩。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;todo_aPost: blog 改版前言&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;现实时间的确有意义。 大脑3个月前的临时信息全部丢失，
+只保存重要的信息。（看似是gc规则） 
+联想到如果每一分钟是一次机会， 普通人会在100万分之一的
+概率遇到改变世界的奇迹，即平均下来是3个月。
+所以，知道ai怎么写了吧&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;为什么要钻研计算机技术？ 因为行业就有竞争，多年以前就是
+google开发了使用了超越时代的技术开发gmail赢得了市场，
+那么在2020年代，谁又是下一个技术达人呢？&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;上海警方通报：“2020 年 12 月 17 日 17 时许，警方接到报警称，某医院在诊疗时发现病患林某（男，39 岁）疑似中毒。接报后，警方立即开展侦查。经现场勘查和调查走访，发现林某的同事许某（男，39 岁）有重大作案嫌疑。目前，许某已被警方依法刑事拘留，相关侦查工作正在进一步开展中”&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;世界就是这样设计的，各个专业的人做专业的事情。 
+出问题相互制衡，如果一个人又会经营企业，又会
+搞反刑侦，个人时间会安排不过来。&lt;br /&gt;
+并且会破坏原有的和谐制度。 人们能安心工作就是因为
+同伴都是平等的个体。如果有个人特别强，没有限制手段。
+那么其他人还能好好和他一起共事吗？&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;为什么现在小公司消失了，只剩大公司了呢？&lt;br /&gt;
+因为人人都觉得小公司好进，然后进了小公司，把公司
+业务拿到手，然后跑路自己开一家新的小公司。
+大公司门槛高，个人无法运营，但是存活了下来。&lt;br /&gt;
+所以多年以后，你说是小公司运营的好还是大公司运营
+的好？&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;日本失败不是因为经济危机广场协定之类的破玩意，
+简单一句话，美国选择了互联网，日本选择了工业。
+所以美国加了一部分，然后美国赢了。
+问题来了，为什么其他人都不提这件事情呢？？&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;为什么美国这么契合互联网？
+为什么中国互联网就是用来娱乐的？
+因为美国地广人稀，不用互联网怎么沟通信息？
+因为互联网本质是不被世界需要的，中国人都有
+自己的圈子，自己的工作，自己的钻营。互联网
+也就拿手机看一眼，就图一乐。&lt;br /&gt;
+但是长期看，互联网的上升潜力是无限的。一个分布式系统
+的能力取决与节点数量。。。
+但是中国是树状的， 极易发生单点故障。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;啊 还是得读论文和书呀， 虽然知乎很快，但是论文的价值密度更高&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">很多时候 想法只有一句话 不想复习,也不想写文章做调研 记得定时清理 生成树,组织成结构</summary></entry><entry><title type="html">Jackson源码搜索</title><link href="/2021/01/18/jackson%E6%BA%90%E7%A0%81%E6%90%9C%E7%B4%A2.html" rel="alternate" type="text/html" title="Jackson源码搜索" /><published>2021-01-18T00:00:00+00:00</published><updated>2021-01-18T00:00:00+00:00</updated><id>/2021/01/18/jackson%E6%BA%90%E7%A0%81%E6%90%9C%E7%B4%A2</id><content type="html" xml:base="/2021/01/18/jackson%E6%BA%90%E7%A0%81%E6%90%9C%E7%B4%A2.html">&lt;p&gt;string To object 详细流程
+问:jackson 怎样查看 java object field?
+答: 
+com/fasterxml/jackson/core/jackson-databind/
+2.11.3/jackson-databind-2.11.3-sources.jar!
+/com/fasterxml/jackson/databind/introspect/
+AnnotatedFieldCollector.java:73&lt;br /&gt;
+java.lang.Class.getDeclaredFields&lt;/p&gt;
+
+&lt;p&gt;问: jackson 怎么构建基础类?
+com/fasterxml/jackson/core/jackson-databind/
+2.11.3/jackson-databind-2.11.3-sources.jar!/
+com/fasterxml/jackson/databind/introspect/
+AnnotatedConstructor.java:119&lt;br /&gt;
+ _constructor.newInstance();&lt;/p&gt;
+
+&lt;p&gt;问: jackson怎么设置值?
+com/fasterxml/jackson/core/jackson-databind/2.11.3/
+jackson-databind-2.11.3-sources.jar!/com/fasterxml/
+jackson/databind/deser/impl/MethodProperty.java:141  &lt;br /&gt;
+_setter.invoke(instance, value);&lt;/p&gt;
+
+&lt;p&gt;总结: 
+最基础是使用的jdk-api 但是因为面向对象, 所以藏得很深&lt;/p&gt;
+
+&lt;p&gt;使用自己的语言(函数调用) 包装jdk-api后, 就可以使用面向对象
+方法, 自己怎么舒服怎么写&lt;/p&gt;</content><author><name></name></author><summary type="html">string To object 详细流程 问:jackson 怎样查看 java object field? 答: com/fasterxml/jackson/core/jackson-databind/ 2.11.3/jackson-databind-2.11.3-sources.jar! /com/fasterxml/jackson/databind/introspect/ AnnotatedFieldCollector.java:73 java.lang.Class.getDeclaredFields</summary></entry><entry><title type="html">Program Ai</title><link href="/2020/12/18/program-ai.html" rel="alternate" type="text/html" title="Program Ai" /><published>2020-12-18T00:00:00+00:00</published><updated>2020-12-18T00:00:00+00:00</updated><id>/2020/12/18/program-ai</id><content type="html" xml:base="/2020/12/18/program-ai.html">&lt;p&gt;这个迭代法,,和机器学习有啥不一样?&lt;/p&gt;
+&lt;div class=&quot;language-golang highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Sqrt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;float64&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;float64&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;d&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;:=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0.001&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;z&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1.000&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;z&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;hash速度&quot;&gt;hash速度&lt;/h2&gt;
+&lt;p&gt;ai制造必须克服的是&lt;/p&gt;</content><author><name></name></author><summary type="html">这个迭代法,,和机器学习有啥不一样? func Sqrt(x float64) float64 { d :=0.001 z :=1.000 for x-z*z&amp;gt;d || z*z-x&amp;gt;d { z -=(z*z-x)/(2*z) } return z }</summary></entry><entry><title type="html">Java Engeneer</title><link href="/2020/12/06/java-engeneer.html" rel="alternate" type="text/html" title="Java Engeneer" /><published>2020-12-06T00:00:00+00:00</published><updated>2020-12-06T00:00:00+00:00</updated><id>/2020/12/06/java-engeneer</id><content type="html" xml:base="/2020/12/06/java-engeneer.html">&lt;h3 id=&quot;what-is-a-java-programmer-need-to-work-with-web&quot;&gt;what is a java programmer need to work with web&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;java grammer&lt;/li&gt;
+  &lt;li&gt;spring&lt;/li&gt;
+  &lt;li&gt;spring mvc&lt;/li&gt;
+  &lt;li&gt;spring boot&lt;/li&gt;
+  &lt;li&gt;mybatis&lt;/li&gt;
+  &lt;li&gt;mysql&lt;/li&gt;
+  &lt;li&gt;spring cloud a… e… f…&lt;/li&gt;
+  &lt;li&gt;reddit&lt;/li&gt;
+  &lt;li&gt;plsql&lt;/li&gt;
+  &lt;li&gt;kafeka&lt;/li&gt;
+  &lt;li&gt;idea&lt;/li&gt;
+  &lt;li&gt;… the target is serve as many people as we can.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">what is a java programmer need to work with web java grammer spring spring mvc spring boot mybatis mysql spring cloud a… e… f… reddit plsql kafeka idea … the target is serve as many people as we can.</summary></entry><entry><title type="html">Mybatis解析</title><link href="/2020/12/03/mybatis%E8%A7%A3%E6%9E%90.html" rel="alternate" type="text/html" title="Mybatis解析" /><published>2020-12-03T00:00:00+00:00</published><updated>2020-12-03T00:00:00+00:00</updated><id>/2020/12/03/mybatis%E8%A7%A3%E6%9E%90</id><content type="html" xml:base="/2020/12/03/mybatis%E8%A7%A3%E6%9E%90.html">&lt;h1 id=&quot;2020年使用springboot的mybatis项目解析&quot;&gt;2020年使用springboot的mybatis项目解析&lt;/h1&gt;
+&lt;p&gt;在一个springboot项目, 使用mybatis会引入4个包.
+可以分成3类,Mybatis,Mybatis-spring, Mybatis-springboot.&lt;/p&gt;
+
+&lt;p&gt;Mybatis是数据持久化框架, 改善jdbc连接方式.&lt;br /&gt;
+Mybatis-spring 使用spring ioc方式管理Mybatis对象.&lt;br /&gt;
+Mybatis-spring-boot使用约定和默认配置的方式减少配置项
+—&lt;/p&gt;
+
+&lt;h2 id=&quot;mybatis解析&quot;&gt;Mybatis解析&lt;/h2&gt;
+&lt;h3 id=&quot;简介&quot;&gt;简介&lt;/h3&gt;
+&lt;p&gt;使用mybatis的基本方式是使用factory初始化session接口.
+在业务类中使用session接口中的方法调用对应mapper&lt;/p&gt;
+
+&lt;p&gt;那么mybatis是怎样简化用户负担,同时操纵jdbc连接数据库呢?&lt;/p&gt;
+
+&lt;h3 id=&quot;架构&quot;&gt;架构&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;用户层:
+    &lt;ol&gt;
+      &lt;li&gt;存储sql语句的xml文件. 与xml文件对应的java接口和其中对应sql语句的方法&lt;/li&gt;
+      &lt;li&gt;mybatis配置文件&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;核心功能层: &lt;br /&gt;
+使xml文件和java接口文件对应,做好被用户调用的准备
+    &lt;ol&gt;
+      &lt;li&gt;java函数参数处理(参数映射)&lt;/li&gt;
+      &lt;li&gt;sql解析&lt;/li&gt;
+      &lt;li&gt;sql执行&lt;/li&gt;
+      &lt;li&gt;结果映射&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;支持层:&lt;br /&gt;
+其他企业级功能
+    &lt;ol&gt;
+      &lt;li&gt;配置加载&lt;/li&gt;
+      &lt;li&gt;连接管理&lt;/li&gt;
+      &lt;li&gt;事务&lt;/li&gt;
+      &lt;li&gt;缓存&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;类详细解析&quot;&gt;类详细解析&lt;/h3&gt;
+&lt;p&gt;SqlSession 为用户调用的主要接口.&lt;br /&gt;
+注意, spring-boot隐藏配置bean的细节, 所以日常开发不容易见到这个接口.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;SqlSession
+    &lt;ul&gt;
+      &lt;li&gt;类中的方法:
+        &lt;ol&gt;
+          &lt;li&gt;commit() crud() rollback()&lt;/li&gt;
+          &lt;li&gt;getConnection()  getConfiguration()&lt;/li&gt;
+          &lt;li&gt;升级 getMapper()&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;使用方式&lt;br /&gt;
+只使用session方式: session接口中的crud方法
+        &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;try&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;SqlSession&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;session&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sqlSessionFactory&lt;/span&gt;
+        &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;openSession&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nc&quot;&gt;Blog&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;blog&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Blog&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;session&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;selectOne&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;
+     &lt;span class=&quot;s&quot;&gt;&quot;org.mybatis.example.BlogMapper.selectBlog&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; 
+     &lt;span class=&quot;mi&quot;&gt;101&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;p&gt;隐藏session概念的方式: 只写mapper&lt;/p&gt;
+        &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;try&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;SqlSession&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;session&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sqlSessionFactory&lt;/span&gt;
+        &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;openSession&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nc&quot;&gt;BlogMapper&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mapper&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;session&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getMapper&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;
+        &lt;span class=&quot;nc&quot;&gt;BlogMapper&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;nc&quot;&gt;Blog&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;blog&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mapper&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;selectBlog&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;101&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;p&gt;session接口中的crud方法调用exceutor来具体执行&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Executor
+判断是否命中缓存
+将流程交给StatmentHandler
+    &lt;ul&gt;
+      &lt;li&gt;StatementHandler
+        &lt;ul&gt;
+          &lt;li&gt;SimpleStatementHandler(无参sql)&lt;/li&gt;
+          &lt;li&gt;PreparedStatementHandler(有参sql)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ParameterHandler&lt;br /&gt;
+对入参中的#{} ${} 内的变量遍历, 判断java类型, jdbc类型, 查看config中有没有注册&lt;/li&gt;
+  &lt;li&gt;ResultSetHandler
+类似ParameterHandler, 对于jdbc结果集中的数据判断,检查注册,执行转换&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;上文介绍了隐藏session的写法, 可在项目初始化时构建session,
+在业务文件中依赖注入mapper&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;MapperProxy
+SqlSession调用Config, Config调用MapperRegistry, MR调用MapperProxyFactory
+    &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nl&quot;&gt;SqlSession:&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;session&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getMapper&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;nl&quot;&gt;Config:&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getMapper&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;nl&quot;&gt;MapperRegistry:&lt;/span&gt; 
+  &lt;span class=&quot;n&quot;&gt;mapperRegistry&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getMapper&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(){&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;knownMappers&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Class&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;factory&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;newInstance&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;    
+&lt;span class=&quot;nl&quot;&gt;MapperProxyFactory:&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;newInstance&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(){&lt;/span&gt;
+      &lt;span class=&quot;nc&quot;&gt;Proxy&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;newInstance&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mapperInterface&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getClassLoader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mapperInterface&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;})&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;diff&quot;&gt;diff&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;mybatis映射java方法到sql语句,而不是想hibernate,映射java类到数据库表&lt;/li&gt;
+  &lt;li&gt;hibernet用户创建java类, H框架自动管理表的创建和维护.Mybatis使用相反的方法.
+先存在数据库, 然后MBG自动创建java类. 这两种方法各有优点. Mybatis适合程序员无法
+ 完全掌控数据库,或者数据库中的数据需要多个程序共享. 例如, 某程序需要临时访问一个
+ 额外的数据库. 或者有dba管理和优化数据库.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;mybatis-spring&quot;&gt;mybatis spring&lt;/h3&gt;
+&lt;p&gt;把mybatis整合入spring框架. 这可以减少程序员适配spring时的依赖管理工作.&lt;/p&gt;
+
+&lt;p&gt;使mybatis使用spring的事务管理. 创建mapper和session以注入其他spring管理的bean&lt;/p&gt;
+
+&lt;h4 id=&quot;example&quot;&gt;example&lt;/h4&gt;
+&lt;p&gt;注册mybatis到spring后&lt;/p&gt;
+&lt;div class=&quot;language-xml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;bean&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;sqlSessionFactory&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;org.mybatis.spring.SqlSessionFactoryBean&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;property&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;dataSource&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;ref=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;dataSource&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/bean&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;bean&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;blogMapper&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;org.mybatis.spring.mapper.MapperFactoryBean&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;property&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;sqlSessionFactory&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;ref=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;sqlSessionFactory&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;property&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;mapperInterface&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;value=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;org.mybatis.example.BlogMapper&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/bean&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;bean&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;blogService&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;org.mybatis.example.BlogServiceImpl&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;property&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;blogMapper&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;ref=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;blogMapper&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/bean&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;调用mybatis的mapper现在就像使用spring的bean一样,
+此时mapper可以被注入&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;BlogService&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;BlogMapper&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;blogMapper&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;setBlogMapper&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;BlogMapper&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;blogMapper&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;blogMapper&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;blogMapper&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;doSomethingWithABlog&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;blogId&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nc&quot;&gt;Blog&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;blog&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;blogMapper&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;selectBlog&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;blogId&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;mybatis-spring-boot&quot;&gt;mybatis spring boot&lt;/h3&gt;
+&lt;p&gt;This feature allows one to build business code free of configuration.&lt;/p&gt;
+
+&lt;h3 id=&quot;mybatis-generator&quot;&gt;MyBatis Generator&lt;/h3&gt;
+&lt;p&gt;MBG是官方代码生成器.可以根据已经存在的sql生成对应的crud语句,java Pojo 和mapper接口&lt;/p&gt;
+
+&lt;h3 id=&quot;应用&quot;&gt;应用&lt;/h3&gt;
+&lt;h4 id=&quot;mybatis多数据源&quot;&gt;mybatis多数据源&lt;/h4&gt;
+&lt;p&gt;根据上述流程,分析得到切入点在Mapper映射.
+手动创建两套DataSource, SqlSessionFactory&lt;br /&gt;
+注意到在mybatis-spring.jar中有SqlSessionFactoryBean,这是mybatis整合入spring的关键&lt;/p&gt;
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nd&quot;&gt;@Configuration&lt;/span&gt;
+&lt;span class=&quot;nd&quot;&gt;@MapperScan&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;basePackages&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=...,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sqlSessionFactoryRef&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=...)&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;DataSourceOne&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nc&quot;&gt;Package&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;com.example.mapper&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nc&quot;&gt;MapperLocation&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;classpath*:one-mapper/*.xml&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    
+    &lt;span class=&quot;nd&quot;&gt;@Bean&lt;/span&gt;
+    &lt;span class=&quot;nd&quot;&gt;@ConfigurationProperties&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;prefix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;...&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;DataSource&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;oneDataSource&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(){&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;DataSourceBuilder&lt;/span&gt;
+                                &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;create&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;().&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;build&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();}&lt;/span&gt;
+    &lt;span class=&quot;nd&quot;&gt;@Bean&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;SqlSessionFactory&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;one&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;@Qualifier&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;oneDataSource&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; 
+                                    &lt;span class=&quot;nc&quot;&gt;DataSource&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ds&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;){&lt;/span&gt;
+        &lt;span class=&quot;nc&quot;&gt;SqlSessionFactoryBean&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sBean&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;...;&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;sBean&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;setMapperLocations&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(...);&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sBean&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getObject&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;   
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;使用时只需要使用spring注入对应mapper.&lt;/p&gt;
+
+&lt;h3 id=&quot;history&quot;&gt;history&lt;/h3&gt;
+&lt;p&gt;mybatis 在2010年 fork ibatis 3. ibatis 开始于 2002.
+java 1.5 发布于 2004, spring 3.0 发布于 2009&lt;/p&gt;
+
+&lt;h3 id=&quot;参考&quot;&gt;参考&lt;/h3&gt;
+
+&lt;p&gt;mybatis总结: https://www.cnblogs.com/cxuanBlog/p/12248536.html&lt;br /&gt;
+美团异常实例: https://tech.meituan.com/2020/06/18/inf-bom-mybatis.html&lt;br /&gt;
+mybatis文档: https://mybatis.org/mybatis-3/zh/getting-started.html&lt;br /&gt;
+mybatis spring 文档: http://mybatis.org/spring/zh/getting-started.html&lt;br /&gt;
+mybatis springboot 文档: http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/index.html&lt;br /&gt;
+wiki: en.wikipedia.org&lt;/p&gt;
+
+&lt;h3 id=&quot;more&quot;&gt;more&lt;/h3&gt;
+&lt;p&gt;what is j2ee? what is entreprice need for technology?
+I think answer is in books.
+Expert One-on-One J2EE design and development.
+Expert One-on-One J2EE Development without EJB&lt;/p&gt;</content><author><name></name></author><summary type="html">2020年使用springboot的mybatis项目解析 在一个springboot项目, 使用mybatis会引入4个包. 可以分成3类,Mybatis,Mybatis-spring, Mybatis-springboot.</summary></entry><entry><title type="html">Java.lang.integer#bitcount解析</title><link href="/2020/12/03/java.lang.Integer-bitCount%E8%A7%A3%E6%9E%90.html" rel="alternate" type="text/html" title="Java.lang.integer#bitcount解析" /><published>2020-12-03T00:00:00+00:00</published><updated>2020-12-03T00:00:00+00:00</updated><id>/2020/12/03/java.lang.Integer#bitCount%E8%A7%A3%E6%9E%90</id><content type="html" xml:base="/2020/12/03/java.lang.Integer-bitCount%E8%A7%A3%E6%9E%90.html">&lt;h2 id=&quot;前置公理&quot;&gt;前置公理&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;代码是有进化过程的, 但是用户看到的是最后的好看的产品(这个能卖钱)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;原始算法&quot;&gt;原始算法&lt;/h3&gt;
+    &lt;ol&gt;
+      &lt;li&gt;隔位计算 (i&amp;amp;0x55555555) +  ((i»&amp;gt;1)&amp;amp;0x55555555 )&lt;/li&gt;
+      &lt;li&gt;把这两位的数加成4位&lt;/li&gt;
+      &lt;li&gt;把这4位的数加成8位&lt;/li&gt;
+      &lt;li&gt;4个8位加成2个16位
+5  两个16位加和输出结果  |&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;原始代码&quot;&gt;原始代码&lt;/h3&gt;
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;mh&quot;&gt;0x55555555&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&amp;amp;&lt;/span&gt;&lt;span class=&quot;mh&quot;&gt;0x55555555&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;);&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;mh&quot;&gt;0x33333333&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&amp;amp;&lt;/span&gt;&lt;span class=&quot;mh&quot;&gt;0x33333333&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;mh&quot;&gt;0x0F0F0F0F&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&amp;amp;&lt;/span&gt;&lt;span class=&quot;mh&quot;&gt;0x0F0F0F0F&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;mh&quot;&gt;0x00FF00FF&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&amp;amp;&lt;/span&gt;&lt;span class=&quot;mh&quot;&gt;0x00FF00FF&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;mh&quot;&gt;0x0000FFFF&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&amp;amp;&lt;/span&gt;&lt;span class=&quot;mh&quot;&gt;0x0000FFFF&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id=&quot;优化&quot;&gt;优化&lt;/h3&gt;
+&lt;p&gt;第一行可以被数学优化&lt;br /&gt;
+第二行不能优化(全1会涉及进位)&lt;br /&gt;
+第3,4,5行因为没有进位可以被优化
+3,4,5行优化原则是 (加完后)(使用掩码)(丢掉)(影响下一步计算的部分)&lt;/p&gt;
+
+&lt;p&gt;第一行:&lt;/p&gt;
+&lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// n == b0 + b1*2 +b2*2^2 + ... + b31*2^31
+// n&amp;gt;&amp;gt;&amp;gt;1 == b1 + b2*2^1 + ... + b31*2^30
+// xx = n&amp;gt;&amp;gt;&amp;gt;1 &amp;amp; 0x55555555 (0101)  ==
+//     b1 + b3*2^2 + b5*2^4 + ... + b31*2^30
+// xxy = n&amp;amp;0x55555555 ==
+//     b0 + b2*2^2 + ... + b30*2^30
+//  n = xxy + xx + xx
+显然 n - xx = xxy + xx  ==&amp;gt; 
+           n-((n&amp;gt;&amp;gt;&amp;gt;1) &amp;amp; 0x55555555) = 
+            (i&amp;amp;0x55555555) + ((i&amp;gt;&amp;gt;&amp;gt;1)&amp;amp;0x55555555)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;第3,4,5行:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;3行:
+    &lt;ul&gt;
+      &lt;li&gt;i+(i»&amp;gt;4) 后 ax &amp;amp; 0x0f0f0f0f 即为所求&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;4行:
+    &lt;ul&gt;
+      &lt;li&gt;因为已经使用掩码去掉了影响计算的部分, 
+所以可以不用继续处理高位的残留位,
+i + (i »&amp;gt; 8) 足以算出正确答案&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;5行:
+    &lt;ul&gt;
+      &lt;li&gt;因为已经使用掩码去掉了影响计算的部分,
+所以可以不用继续处理高位的残留位,
+i + (i »&amp;gt; 16) 足以算出正确答案&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最后返回时 使用掩码抹去超过32的高位&lt;br /&gt;
+0x3f,十进制64,刚好抹去高位残留&lt;/p&gt;
+
+&lt;h3 id=&quot;最终代码&quot;&gt;最终代码&lt;/h3&gt;
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;bitCount&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// HD, Figure 5-2&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;mh&quot;&gt;0x55555555&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;mh&quot;&gt;0x33333333&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;mh&quot;&gt;0x33333333&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;mh&quot;&gt;0x0f0f0f0f&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;mh&quot;&gt;0x3f&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;图&quot;&gt;图&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;assets/img/hd_5_1.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;总结&quot;&gt;总结&lt;/h3&gt;
+&lt;p&gt;写这个代码的人是个黑客&lt;/p&gt;</content><author><name></name></author><summary type="html">前置公理 代码是有进化过程的, 但是用户看到的是最后的好看的产品(这个能卖钱) 原始算法 隔位计算 (i&amp;amp;0x55555555) + ((i»&amp;gt;1)&amp;amp;0x55555555 ) 把这两位的数加成4位 把这4位的数加成8位 4个8位加成2个16位 5 两个16位加和输出结果 |</summary></entry><entry><title type="html">绝大多数人和刺头</title><link href="/2020/12/03/%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E5%92%8C%E5%88%BA%E5%A4%B4.html" rel="alternate" type="text/html" title="绝大多数人和刺头" /><published>2020-12-03T00:00:00+00:00</published><updated>2020-12-03T00:00:00+00:00</updated><id>/2020/12/03/%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E5%92%8C%E5%88%BA%E5%A4%B4</id><content type="html" xml:base="/2020/12/03/%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E5%92%8C%E5%88%BA%E5%A4%B4.html">&lt;h1 id=&quot;todo-好好说话&quot;&gt;todo: 好好说话&lt;/h1&gt;
+&lt;p&gt;绝大多数人都是好的,但是极少部分的异常可以掩盖整体的印象
+并据此做出错误的决定&lt;br /&gt;
+每个人99.9%的时间做的事情都是好的, 但是0.1%做的坏事,就可以
+有重大影响.&lt;br /&gt;
+人遇到的事情99.9%都是正常的,但是不登记. 其余0.1%异常却深入人心.&lt;/p&gt;
+
+&lt;p&gt;面对这个事实&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;99.9%好事和0.1%坏事,在客观世界中发生&lt;br /&gt;
+人主要记住坏事, 不记住好事&lt;br /&gt;
+主观认为坏事更多会影响决策&lt;br /&gt;
+决策影响收益&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;在面对以上事实的基础上, 修正自身的观念.
+这样在处理事务的时候才可以分门别类的分条处理,
+而不是统一处理后影响收益.&lt;/p&gt;
+
+&lt;h3 id=&quot;学习&quot;&gt;学习&lt;/h3&gt;
+&lt;p&gt;小学生都会刷抖音玩游戏了&lt;br /&gt;
+初中生就可以识字看小说了&lt;br /&gt;
+高中生已经可以进实验室刷试管了&lt;br /&gt;
+==========但是=========&lt;br /&gt;
+设计系统架构,组织人员进行医疗活动,
+设计实施建造城市关键建筑等等&lt;br /&gt;
+这些活动所需要的脑力复杂程度不是随便培养一个字符查找
+机器就可以实现的.&lt;/p&gt;
+
+&lt;p&gt;但是从零开始的学生就是要成长10年并且一步都不能错,
+才可以接替上一代的工作并更进一步.  教育真的很难,
+资源也是真的不均衡&lt;/p&gt;
+
+&lt;p&gt;就比如我从12岁开始发展的,一种非语言思考机制,
+现在已经发展为,人肉编译器的程度,
+这个,随便一个边远山区的孩子能学会么?
+随便一个农民出身的家庭能学会吗?&lt;/p&gt;
+
+&lt;h4 id=&quot;引文1&quot;&gt;引文1&lt;/h4&gt;
+&lt;p&gt;现在的这些孩子啊，真是一点儿都不懂父母的苦心，让他写个作业磨磨唧唧半天写不完，整天光想着玩！你说我这还不都是为了他好吗？当年我要是认真学习，至于现在这样吗？哎，我是不忍心看他走我的老路，可这孩子，整天看什么知乎，哔哩哔哩，全让那群不负责任的野孩子带坏了。你说这互联网那么乱，国家怎么就不能把它封了呢？我看这社会啊，早晚得毁在这群年轻人手上！哎，等等，二饼，碰！胡了！&lt;/p&gt;
+&lt;h4 id=&quot;引文2&quot;&gt;引文2&lt;/h4&gt;
+&lt;p&gt;我宁愿欠你一个快乐的中年，也不愿看到你卑微的退休。我爹是996的程序员，这天十点回到家，刚吃了两口饭，我就把车钥匙放在了他身边。该去开嘀嘀了，我说。我爹一脸不情愿，说，我才刚吃了两口饭。我扭头看着他：都吃了好几口了，再吃下去该吃撑了。我爹不高兴，我还想再喝口汤呢。哥哥正好听到，说：爸我这就给您端汤去。上班族，不能太辛苦。我呵呵了两声：你就会做老好人，好像我爹不是我亲爹似的，我比你更希望他快乐。作为子女，比任何人都希望自己的父母快乐。但这快乐，绝不是在该工作的年龄去放纵，在该996的时候只图轻松。爹妈啊，你们不是富一代，我也不是富二代。作为普通人家，我唯一能为你做的，就是督促你去996，让你有动力去登上更高的山峰。那时，你看在眼里的风景才会楚楚动人。如果你一直匍匐在命运的脚下，为生计发愁，那么，再美的景色在你眼里也是愁苦。此时我对你有多心软，将来退休生活就会对你有多无情。我宁可欠你一个快乐的中年，也不愿看到你低声下气的退休。如果你想在退休的人生舞台上长袖善舞，你就要多熬一些夜，多吃一些苦，多打一些工。真正快乐的退休生活，是要趟过一条996的河才能抵达。只有在秋天的时候去躬身播种，你才能给子女留下冬天的韭菜根。&lt;/p&gt;
+
+&lt;p&gt;作者：夏喵爱吃韭菜
+链接：https://www.zhihu.com/question/50401236/answer/1606994881
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。&lt;/p&gt;</content><author><name></name></author><summary type="html">todo: 好好说话 绝大多数人都是好的,但是极少部分的异常可以掩盖整体的印象 并据此做出错误的决定 每个人99.9%的时间做的事情都是好的, 但是0.1%做的坏事,就可以 有重大影响. 人遇到的事情99.9%都是正常的,但是不登记. 其余0.1%异常却深入人心.</summary></entry><entry><title type="html">黑客与画家解析</title><link href="/2020/12/01/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6%E8%A7%A3%E6%9E%90.html" rel="alternate" type="text/html" title="黑客与画家解析" /><published>2020-12-01T00:00:00+00:00</published><updated>2020-12-01T00:00:00+00:00</updated><id>/2020/12/01/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6%E8%A7%A3%E6%9E%90</id><content type="html" xml:base="/2020/12/01/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6%E8%A7%A3%E6%9E%90.html">&lt;h3 id=&quot;我不用看原来的书了-看这个post就好&quot;&gt;我不用看原来的书了, 看这个post就好&lt;/h3&gt;
+
+&lt;p&gt;黑客与画家是一本2004年写的书,创业教父PG编写, 
+由多年的网络日志综合成书.&lt;/p&gt;
+
+&lt;p&gt;书籍读完了就要有所收获,不然看看目录就行了.
+对于生活的行为和思想有所改变, 不然看看目录就行了&lt;/p&gt;
+
+&lt;p&gt;黑画 1-6章我看了,很好7,9,14,15 看起来不错
+8在2020年没有意义,
+10-13章的论述其实只有两部分&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;不管用什么语言,对于商业来说,一定要开发快,满足客户的需要,
+不然客户就跑了,或者去竞争对手那里.&lt;/li&gt;
+  &lt;li&gt;初级程序员要意识到blub悖论,
+因为我目前的感觉和blub悖论描述的一样,
+所以要多学一些其他类型的语言.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;看完书的收获&quot;&gt;看完书的收获&lt;/h3&gt;
+&lt;h4 id=&quot;学校-黑客-另一条路&quot;&gt;学校, 黑客, 另一条路&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;真实世界的关键在于人做的每件事情都能产生真正意义上的效果.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;学校是有问题的. 几个成年人管理百倍数量的年轻人.
+在没有形成被雇佣的价值之前, 这群学生对社会是没有价值的.
+书呆子们在进入社会后,使用自己的天赋,发现正确的答案,产生价值,
+才会消解从学校中所受的苦难.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;黑客和画家一样,是一个创作者,工程师,设计师,
+工作是创造优美的产品,而不是完成学术论文.
+黑客可以通过了解基本原理, 学习他人的代码获得成长
+黑客可以和画家和作家一样, 找一份’白天工作’ 来维持生计&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这一章没什么可说的, 记得之后回来更新,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;不能说的话: 那些话是未来的人回到现在后,小心翼翼不能说出口的?&lt;br /&gt;
+你是一个随大流的人吗: 如果每一个观点都和别人一样,是否太巧了?&lt;br /&gt;
+真话: 这句话会让人陷入思考,
+这对于一个稳定的系统来说是一个大麻烦&lt;br /&gt;
+异端邪说: 富有争议性, 不管是对是错, 没有人敢公开谈论他&lt;br /&gt;
+时空差异: todo
+道貌岸然: todo
+机制: 
+为什么这么做: 
+守口如瓶: 
+笑脸相迎: 
+永远质疑:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;黑客的思维&quot;&gt;黑客的思维&lt;/h4&gt;
+
+&lt;h4 id=&quot;另一条路-创业&quot;&gt;另一条路 创业&lt;/h4&gt;
+
+&lt;h4 id=&quot;如何创造财富&quot;&gt;如何创造财富&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;工作50年 每年拿10w  低强度 &lt;br /&gt;
+工作5年 每年拿100w  高强度&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;编程语言影响心智&quot;&gt;编程语言影响心智&lt;/h4&gt;
+
+&lt;h3 id=&quot;需要改变的行为&quot;&gt;需要改变的行为&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;学习c/c++, ruby 	Haskell Assembly language lisp
+// 学习的方式是看项目&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;浪费时间&quot;&gt;浪费时间&lt;/h3&gt;
+&lt;p&gt;浪费时间的人当然可以存活于世,
+但是他真的看见过自然的美么?&lt;/p&gt;</content><author><name></name></author><summary type="html">我不用看原来的书了, 看这个post就好</summary></entry><entry><title type="html">Printed Books</title><link href="/2020/11/29/printed-books.html" rel="alternate" type="text/html" title="Printed Books" /><published>2020-11-29T00:00:00+00:00</published><updated>2020-11-29T00:00:00+00:00</updated><id>/2020/11/29/printed-books</id><content type="html" xml:base="/2020/11/29/printed-books.html">&lt;p&gt;In year 2020, ebooks can replace most function of 
+printed books.&lt;br /&gt;
+Printed books are fast, stable, unforgettable.&lt;br /&gt;
+Ebooks are lightweight, shareable, cheap.&lt;br /&gt;
+&lt;strong&gt;BOTH CAN LEARN INFORMATION&lt;/strong&gt;&lt;br /&gt;
+So this is a storage question.&lt;/p&gt;
+
+&lt;h2 id=&quot;rule&quot;&gt;Rule&lt;/h2&gt;
+&lt;p&gt;Rule 1: All books have a digital copy.&lt;br /&gt;
+Rule 2: Only important book will be printed.&lt;/p&gt;
+
+&lt;h3 id=&quot;printed-book-list&quot;&gt;printed book list&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;The Art of Computer Programing&lt;/li&gt;
+  &lt;li&gt;Code Complete&lt;/li&gt;
+  &lt;li&gt;The Emperor’s New Mind&lt;/li&gt;
+  &lt;li&gt;Hackers &amp;amp; Painters&lt;/li&gt;
+  &lt;li&gt;The Tao of Programming&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;about-storage&quot;&gt;about storage&lt;/h3&gt;
+&lt;p&gt;For noob like me, forget things happened all the time.&lt;br /&gt;
+Print out is a way to not forget so as statue, home decoration.
+Books in shelf remained me who I am and what should I do.
+the shelf has &lt;strong&gt;limited&lt;/strong&gt; space.
+Keep stay alarm for peaking book which stay in shelf.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-speed&quot;&gt;about speed&lt;/h3&gt;
+&lt;p&gt;Printed books are really fast.
+You can look up menu and brows information by 
+random access. A same performance computer is way
+expensive for single book, and people can’t read
+books to match the cost. &lt;br /&gt;
+The speed is critical in thinking. Brain must be 
+running even in sub task like changing page or looking
+up menu. If any delay happened, people will think 
+other stuff, and quiet working.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-value&quot;&gt;about value&lt;/h3&gt;
+&lt;p&gt;Printed books are very important, thus must have 
+very high value.&lt;br /&gt;
+&lt;strong&gt;Don’t be Locked&lt;/strong&gt;&lt;br /&gt;
+There are processed to one’s mind then show 
+productivity.
+People are week to read multiple books one time.
+So stay happy and read book when ever you can.
+Don’t push yourself too hard.&lt;/p&gt;</content><author><name></name></author><summary type="html">In year 2020, ebooks can replace most function of printed books. Printed books are fast, stable, unforgettable. Ebooks are lightweight, shareable, cheap. BOTH CAN LEARN INFORMATION So this is a storage question.</summary></entry><entry><title type="html">Blog升级维护日记</title><link href="/2020/11/27/blog%E5%8D%87%E7%BA%A7%E7%BB%B4%E6%8A%A4%E6%97%A5%E8%AE%B0.html" rel="alternate" type="text/html" title="Blog升级维护日记" /><published>2020-11-27T00:00:00+00:00</published><updated>2020-11-27T00:00:00+00:00</updated><id>/2020/11/27/blog%E5%8D%87%E7%BA%A7%E7%BB%B4%E6%8A%A4%E6%97%A5%E8%AE%B0</id><content type="html" xml:base="/2020/11/27/blog%E5%8D%87%E7%BA%A7%E7%BB%B4%E6%8A%A4%E6%97%A5%E8%AE%B0.html">&lt;p&gt;&lt;em&gt;第一天&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;In the beginning hcen1997 init the repo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;第二天&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;勤劳又智障的hcen1997拿着自己刚买的小锤子, 钉了两个不合群的钉子.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;第三天&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;hcen1997灵光一闪,扔掉了小锤子,开始用笔写文章了.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;第四天&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;hcen1997在孤单的路程中,遇见了同行的人&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;第五天&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;在淡红的血色中，看见渺茫的希望&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">第一天 In the beginning hcen1997 init the repo.</summary></entry></feed>
